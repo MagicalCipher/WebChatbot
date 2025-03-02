@@ -3,3 +3,5 @@ Just start your prompt with 'Tell me about' and ask for help such as 'tell me ab
 
 And don't forget to use the Speech to Text option for easy to use UI! 
 Happy Helping! 
+
+https://youtu.be/iYMiUmqnInA?si=GynIgzOC53Q5LZWg
